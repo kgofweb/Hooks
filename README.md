@@ -1,4 +1,4 @@
 # Hooks
 React hooks method
 
-Learning different React Hooks method.
+Learning different React Hooks methods.
